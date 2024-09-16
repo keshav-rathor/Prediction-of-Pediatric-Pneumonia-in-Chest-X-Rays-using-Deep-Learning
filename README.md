@@ -35,22 +35,6 @@ cd your-repository-name
 pip install -r requirements.txt
 ```
 
-## Usage
-
-1. **Prepare the Dataset**: Download the dataset from Kaggle and place it in the `data/` directory.
-2. **Training**: Run the training script to fine-tune the DenseNet-161 model.
-
-```bash
-python train_model.py
-```
-
-3. **Evaluation**: Evaluate the model on validation and test sets.
-
-```bash
-python evaluate_model.py
-```
-
-4. **Deployment**: Instructions for deploying the model to a production environment will be provided in the `deployment/` directory.
 
 ## Results
 
