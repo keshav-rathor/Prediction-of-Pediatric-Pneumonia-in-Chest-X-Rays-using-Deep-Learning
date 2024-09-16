@@ -1,4 +1,4 @@
-# Pediatric Pneumonia Classification using Deep Learning
+# Deep Learning-Based Prediction of Pediatric Pneumonia from Chest X-Rays
 
 ## Overview
 
